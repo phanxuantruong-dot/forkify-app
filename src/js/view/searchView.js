@@ -23,11 +23,6 @@ class searchView {
     });
   }
 
-  _newFeature() {
-    console.log(1);
-    console.log(2);
-  }
-
   _clearSearch() {
     document.querySelector('.search__field').value = '';
   }
